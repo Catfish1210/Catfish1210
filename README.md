@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript & Vim**
 
-- 💬 Ask me about **Go & Javascript**
+- 💬 Ask me about **Go, Javascript & Linux**
 <!-- <div class='showcase-projects'><h4>Showcase Projects</h4></div> -->
 <div class='extra' style="display:flex; flex-wrap: wrap; justify-content: space-evenly;">
     <div class='tools'>
