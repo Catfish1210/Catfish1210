@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JS bomberman game**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Cybersecurity**
 
 - 💬 Ask me about **Go, Javascript & Linux**
 <!-- <div class='showcase-projects'><h4>Showcase Projects</h4></div> -->
