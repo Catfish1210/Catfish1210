@@ -1,7 +1,7 @@
 <h1 align="center" style="text-decoration: none;">Welcome to my github page!</h1>
 <h3 align="center">Enthusiastic Software Developer based in Estonia.</h3>
 
-- 🔭 I’m currently working on **JS bomberman game**
+- 🔭 I’m currently working on **Mal-Track**
 
 - 🌱 I’m currently learning **Cybersecurity**
 
